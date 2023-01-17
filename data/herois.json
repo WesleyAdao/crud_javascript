@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "nome": "Molecule Man",
+    "idade": 29,
+    "identidadeSecreta": "Dan Jukes",
+    "poderes": [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+  },
+  {
+    "id": "2",
+    "nome": "Madame Uppercut",
+    "idade": 39,
+    "identidadeSecreta": "Jane Wilson",
+    "poderes": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  },
+  {
+    "id": "3",
+    "nome": "Superman",
+    "idade": "35",
+    "identidadeSecreta": "Clark Kent",
+    "poderes": [
+      "Superforça",
+      "Visão de raio x",
+      "Visão de calor",
+      "Intangível",
+      "Sopro de Gelo",
+      "Voo"
+    ]
+  }
+]
